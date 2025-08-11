@@ -41,11 +41,11 @@
 ## 📊 Analítica de Repositorios
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juan jose saldarriaga&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan jose saldarriaga&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
